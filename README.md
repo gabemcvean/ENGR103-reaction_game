@@ -27,3 +27,12 @@ The final score represents the total number of successful reactions achieved thr
 Game Reset:
 To start a new game, players can restart the program or press a dedicated reset button.
 The objective of the Reaction Time Challenge is to achieve the highest possible score by reacting quickly and accurately to visual cues. Players can compete against themselves or challenge friends to beat their reaction time scores.
+
+#### Inputs and Outputs
+Button A: This button is assigned to control the "Reaction A" action.
+Button B: This button is assigned to control the "Reaction B" action.
+Sensors Used:
+
+NeoPixel LED: The NeoPixel LED serves as a visual cue for the player to react. Its function is to turn on and off at random intervals.
+Buzzer: The buzzer produces sound feedback, indicating a successful or failed reaction.
+Raw Ranges and Mapping:
