@@ -1,9 +1,9 @@
 # ENGR103-reaction_game
 
-## Game Descritption
+# Game Descritption
 In Reaction Time Challenge, players put their reflexes to the test in a fast-paced game of reaction time. The game aims to measure how quickly players can respond to a visual cue by pressing either A or B button. With each round, the pressure builds as players strive to beat their previous record and achieve lightning-fast reaction times.
 
-### Rules
+# Rules
 Game Start:
 The game starts by turning on the NeoPixel LED, indicating that a round is about to begin.
 Reacting to the Cue:
@@ -28,7 +28,7 @@ Game Reset:
 To start a new game, players can restart the program or press a dedicated reset button.
 The objective of the Reaction Time Challenge is to achieve the highest possible score by reacting quickly and accurately to visual cues. Players can compete against themselves or challenge friends to beat their reaction time scores.
 
-#### Inputs and Outputs
+# Inputs and Outputs
 Button A: This button is assigned to control the "Reaction A" action.
 Button B: This button is assigned to control the "Reaction B" action.
 Sensors Used:
