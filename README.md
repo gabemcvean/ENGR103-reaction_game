@@ -12,9 +12,9 @@ The NeoPixel LED turns off at random intervals, acting as a visual cue for the p
 Players must quickly press either Button A or Button B as soon as the LED turns off.
 
 Scoring:
-If the correct button is pressed within the designated time frame, the buzzer sounds, indicating a successful reaction.
+If the correct button is pressed within the designated time frame, the buzzer sounds, indicating a successful reaction and will light up green.
 Players receive one point for each successful reaction.
-If the time frame elapses or the wrong button is pressed, the buzzer sounds to indicate a failed reaction, and no points are awarded.
+If the time frame elapses or the wrong button is pressed, the buzzer sounds to indicate a failed reaction, and no points are awarded and the will light up red.
 
 Rounds:
 The game consists of a predetermined number of rounds (e.g., 10 rounds).
